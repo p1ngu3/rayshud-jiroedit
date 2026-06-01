@@ -6,26 +6,14 @@ A HUD for Team Fortress 2.
 About
 -------
 
-A simplistic yet bold hud for TF2 made to cut out a lot of clutter included that of the stock hud. It includes both a 6s and 16v16 scoreboard that can be toggled by changing to and from the minimal mode, and a range of various vivid colors associated with both low health as well as ammo.
+This is my personal edit of rayshud to recolor a lot of the elements from cyan to purple, the ammo counters, crosshair and some other elements.
 
-Screenshots
---------
 
-* [Health/Ammo, Overheal, TargetID](http://puu.sh/188pJ)
-* [16v16 Scoreboard](http://puu.sh/188qq)
-* [6v6 Scoreboard](http://puu.sh/188qS)
-* [Low ammo, Killfeed](http://puu.sh/188r9)
-* [Charge Meter, Last Damage done location](http://puu.sh/188rV)
-* [Spectator TargetID](http://puu.sh/188tf)
-* [Tournament Spectator HUD, Inspect Panel, KOTH Timers](http://puu.sh/188wK)
-* [Capture the Flag HUD](http://puu.sh/188xO)
-* [Class Selection screen](http://puu.sh/19R5o)
-* [Team Selection screen](http://puu.sh/19R58)
 
 To Download
 --------
 
-Click [here](https://github.com/raysfire/rayshud/archive/master.zip) or the green `Clone or Download` button near the top of the page and then `Download ZIP` in order to download the latest version of my hud!
+Click [here](https://github.com/p1ngu3/rayshud-jiroedit) or the green `Clone or Download` button near the top of the page and then `Download ZIP` in order to download the latest version of my hud!
 
 To Install
 --------
@@ -51,8 +39,7 @@ tf
 
 Help/Support
 --------
-* If you have a MacOS, remove the existing clientscheme.res file in the `rayshud/resources` folder and rename the file clientscheme_mac to clientscheme. If you don't do this, the in-game font will not render properly, or maybe still won't.
-* If you've found a bug, need help or have a suggestion - either [open a support ticket here on GitHub](https://github.com/raysfire/rayshud/issues/new) or [make a post on the Steam Group](https://steamcommunity.com/groups/rayshud).
+* I update this shit like once every two years and don't know about scripting so don't ask me
 
 Credits
 --------
@@ -62,5 +49,6 @@ Credits
 * Whoever makes PVHUD - Inspiration, occasional reference.
 * My team - For dealing with me and giving me constructive feedback all the time.
 * Flame - If it weren't for your guide, I couldn't have made this at all. Thanks a million, man.
+* Summer - hi 
 
-v2018.08.05
+v2026.1
