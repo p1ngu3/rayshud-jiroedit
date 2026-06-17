@@ -1,4 +1,4 @@
-![alt text](http://huds.tf/forum/xthreads_attach.php/572_1486499416_dd57b51a/8daf74d7f23cd9e2dd4abd849b3f0644/directory.jpg)
+
 =======
 
 A HUD for Team Fortress 2.
